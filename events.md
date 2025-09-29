@@ -9,129 +9,29 @@
 
 ## Upcoming Events
 
-### Monthly Community Meeting
-**Date:** [First Wednesday of every month]  
-**Time:** 7:00 PM - 8:30 PM  
-**Location:** [Address/Virtual Link]  
-**Cost:** Free
+### Bi-weekly General Body Meetings (GBMs)
+**Date:** First and third Monday
+**Time:** 6:00pm 
+**Location:** Location varies--see [Instagram](https://www.instagram.com/gw_ejan/)!
 
-Join us for our monthly community meetings where we discuss current environmental issues, plan upcoming actions, and hear from community members about their concerns.
+### Bi-weekly Gardening Hours
+**Date:** First and third Friday
+**Time:** 11:00am - 1:00pm
+**Location:** Milken Native Garden, GW Milken Institute School of Public Health
+
+### Weekly Book Club
+**Date:** Mondays
+**Time:** 7:00pm 
+**Location:** Location varies--message *Kaitlyn Gang* via [Group Me]() for address!
 
 **This Month's Agenda:**
-- Update on [Current Project]
-- Community concern: [Specific issue]
-- Planning for [Upcoming action/event]
+- General Body Meetings (GBMs): October __st and __st.
+- Gardening Hours: October __st and __st.
+- Book Club: Mondays @ 7:00pm
+- Testifying for DC's Bottle Bill
 - Open discussion and Q&A
 
-[RSVP Here] | [Add to Calendar]
+## Google Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=gwu.ejan%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
----
-
-### Environmental Justice Workshop Series
-**Dates:** [Specific dates]  
-**Time:** 10:00 AM - 3:00 PM  
-**Location:** [Address]  
-**Cost:** Free (lunch provided)
-
-Four-part workshop series covering:
-1. **Understanding Environmental Justice** - [Date]
-2. **Community Organizing Tactics** - [Date]
-3. **Policy Advocacy Skills** - [Date]
-4. **Building Sustainable Movements** - [Date]
-
-[Register Now] | [Download Workshop Materials]
-
----
-
-### Annual Environmental Justice Day
-**Date:** [Specific date]  
-**Time:** 11:00 AM - 4:00 PM  
-**Location:** [Park/Community Center]  
-**Cost:** Free
-
-Our biggest annual event featuring:
-- Guest speakers and community leaders
-- Environmental health screenings
-- Kids' activities and education stations
-- Local food and live music
-- Resource fair with partner organizations
-- Action planning sessions
-
-[Event Details] | [Volunteer Opportunities] | [Vendor Information]
-
----
-
-## Regular Programming
-
-### Community Office Hours
-**When:** Every Tuesday, 2:00 PM - 6:00 PM  
-**Where:** EJAN Office, [Address]
-
-Drop in for assistance with:
-- Environmental health concerns
-- Accessing government resources
-- Understanding environmental data
-- Getting involved in advocacy
-
-No appointment necessary.
-
-### Youth Environmental Leaders Program
-**When:** Saturdays, 10:00 AM - 2:00 PM  
-**Ages:** 14-18  
-**Where:** [Location]
-
-Monthly program for high school students interested in environmental advocacy and leadership development.
-
-[Youth Program Application]
-
----
-
-## Past Events
-
-### [Event Name] - [Date]
-Brief description of the event and its outcomes. [Photo gallery link]
-
-**Highlights:**
-- [Number] attendees
-- [Specific achievement or outcome]
-- [Community impact]
-
-### [Event Name] - [Date]
-Brief description of the event and its outcomes. [Photo gallery link]
-
-**Highlights:**
-- [Number] attendees
-- [Specific achievement or outcome]
-- [Community impact]
-
----
-
-## Event Calendar
-
-| Date | Event | Location | Type |
-|------|-------|----------|------|
-| [Date] | [Event Name] | [Location] | [Workshop/Meeting/Action] |
-| [Date] | [Event Name] | [Location] | [Workshop/Meeting/Action] |
-| [Date] | [Event Name] | [Location] | [Workshop/Meeting/Action] |
-
-[View Full Calendar] | [Subscribe to Calendar]
-
----
-
-## Host an Event
-
-Interested in hosting an EJAN event in your community? We offer:
-- Educational presentations
-- Workshop facilitation
-- Community listening sessions
-- Environmental health training
-
-[Contact us](contact.md) to discuss bringing EJAN programming to your area.
-
----
-
-## Stay Connected
-
-- **Email List:** [Sign up link] for event announcements
-- **Social Media:** Follow us for real-time updates
-- **Community Calendar:** [Link to shared calendar]
+[Subscribe to the Google Calendar](https://calendar.google.com/calendar/embed?src=gwu.ejan%40gmail.com&ctz=America%2FNew_York)
