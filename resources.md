@@ -1,8 +1,3 @@
-## RESOURCES PAGE (resources.md)
-
-# Resources & Information
-
-## Navigation
 [Home](index.md) | [About](about.md) | [Our Projects](projects.md) | [Events](events.md) | [Contact Us](contact.md) | [Gallery](gallery.md) | **Resources**
 
 ---

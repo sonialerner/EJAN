@@ -1,8 +1,3 @@
-## PROJECTS (projects.md)
-
-# Our Projects & Initiatives
-
-## Navigation
 [Home](index.md) | [About](about.md) | **Our Projects** | [Events](events.md) | [Contact Us](contact.md) | [Gallery](gallery.md) | [Resources](resources.md)
 
 ---

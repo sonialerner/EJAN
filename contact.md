@@ -1,8 +1,3 @@
-## CONTACT (contact.md)
-
-# Contact Us
-
-## Navigation
 [Home](index.md) | [About](about.md) | [Our Projects](projects.md) | [Events](events.md) | **Contact Us** | [Gallery](gallery.md) | [Resources](resources.md)
 
 ---

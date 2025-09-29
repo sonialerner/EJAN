@@ -1,8 +1,3 @@
-## GALLERY (gallery.md)
-
-# Photo Gallery
-
-## Navigation
 [Home](index.md) | [About](about.md) | [Our Projects](projects.md) | [Events](events.md) | [Contact Us](contact.md) | **Gallery** | [Resources](resources.md)
 
 ---

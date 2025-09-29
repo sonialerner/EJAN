@@ -1,7 +1,3 @@
-## EVENTS (events.md)
-
-# Events & Activities
-
 ## Navigation
 [Home](index.md) | [About](about.md) | [Our Projects](projects.md) | **Events** | [Contact Us](contact.md) | [Gallery](gallery.md) | [Resources](resources.md)
 

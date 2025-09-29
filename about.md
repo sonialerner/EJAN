@@ -1,8 +1,3 @@
-## ABOUT (about.md)
-
-# About Environmental Justice Action Network
-
-## Navigation
 [Home](index.md) | **About** | [Our Projects](projects.md) | [Events](events.md) | [Contact Us](contact.md) | [Gallery](gallery.md) | [Resources](resources.md)
 
 ---

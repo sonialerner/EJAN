@@ -8,8 +8,6 @@
 ├── gallery.md
 └── resources.md
 ```
----
-# Environmental Justice Action Network (EJAN)
 
 **Home** | [About](about.md) | [Our Projects](projects.md) | [Events](events.md) | [Contact Us](contact.md) | [Gallery](gallery.md) | [Resources](resources.md)
 
