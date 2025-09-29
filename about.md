@@ -3,30 +3,14 @@
 ---
 
 ## Our Mission
-
-Environmental Justice Action Network (EJAN) exists to ensure that all people, regardless of race, color, national origin, or income, have equal protection from environmental harms and equal access to environmental benefits.
-
-## Our Vision
-
-We envision thriving, healthy communities where every person has clean air to breathe, safe water to drink, and a voice in decisions that affect their environment.
-
-## Our Values
-
-### Community-Centered Approach
-We believe that the communities most affected by environmental injustice are best positioned to lead the fight for solutions.
-
-### Intersectional Justice
-We recognize that environmental issues are deeply connected to social, economic, and racial justice.
-
-### Grassroots Power
-We build power from the ground up, supporting community leaders and local organizing efforts.
-
-### Collaborative Action
-We work in partnership with other organizations, government agencies, and stakeholders to achieve systemic change.
-
-## Our History
-
-Founded in 2020, EJAN emerged from a coalition of students at George Washington University.
+EJAN is a graduate and undergraduate inclusive and intersectional organization that strives to be action-centric on environmental justice issues while also building a coalition of like-minded social justice oriented students that want to make a change in their community.
+EJAN empowers its members to translate their knowledge into action by utilizing intersectional frameworks and directly integrating with the broader D.C. community. This goal is realized through the three statutes of EJAN:
+ 
+1. **Action-Oriented Advocacy:** EJAN focuses on tangible ways to create change in our communities by volunteering, writing letters to legislators, and engaging in service opportunities within the broader D.C. community to promote Environmental Justice.
+ 
+2. **Fostering Relationships with Broader D.C. Area:** EJAN focuses on community-based efforts in the D.C. area, and connects EJAN members to community leaders to provide assistance to those who are disproportionately burdened by environmental injustices.
+ 
+3. **Education-Centered:** EJAN expands members’ knowledge about historical and current environmental injustice topics by attending EJ webinars, and discussing relevant literature chosen by EJAN members.
 
 ## Meet Our E-board
 - **Kaitlyn Gang**, President
