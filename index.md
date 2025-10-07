@@ -4,8 +4,8 @@
 ---
 
 # EJAN: Environmental Justice Action Network
-### Advancing Environmental Justice at George Washington University and in greater Washington, DC
 <div align="center">
+<h2>Advancing Environmental Justice at George Washington University and in greater Washington, DC<h2>
 <img src="images/EJAN-Logo.png" alt="EJAN Logo: Green, black, and white globe with fist and text, 'EJAN'" width="300"/>
 </div>
 
