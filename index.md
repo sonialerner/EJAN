@@ -1,14 +1,4 @@
-```
-/
-├── index.md (Home Page)
-├── about.md
-├── projects.md
-├── events.md
-├── contact.md
-├── gallery.md
-└── resources.md
-```
-## GW EJAN
+# GW EJAN
 **Home** | [About](about.md) | [Our Projects](projects.md) | [Events](events.md) | [Contact Us](contact.md) | [Gallery](gallery.md) | [Resources](resources.md)
 
 ---
@@ -16,7 +6,7 @@
 # EJAN: Environmental Justice Action Network
 ### Advancing Environmental Justice at George Washington University and in greater Washington, DC
 
-![EJAN Logo](images/EJAN-Logo.png)
+<img src="EJAN-Logo.png" alt="EJAN Logo" width="300"/>
 *Description: EJAN Logo: Green, black, and white globe with fist and text, "EJAN"*
 
 **EJAN** is a grassroots organization dedicated to ensuring that all communities, regardless of race, income, or geographic location, have equal access to a healthy environment and meaningful participation in environmental decision-making processes.
