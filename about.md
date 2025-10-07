@@ -13,41 +13,52 @@ EJAN empowers its members to translate their knowledge into action by utilizing 
 3. **Education-Centered:** EJAN expands members’ knowledge about historical and current environmental injustice topics by attending EJ webinars, and discussing relevant literature chosen by EJAN members.
 
 ## Meet Our E-board
-- **Kaitlyn Gang**, President
-![Headshot of Kaitlyn](images/kaitlyn.jpg)
+### **Kaitlyn Gang**, President
+<img src="images/kaitlyn.jpg" alt="headshot of Kaitlyn" width="200"/>
 >Kaitlyn is a senior studying environmental studies and political science. 
-- **Justin Cummings**, Secretary
-![Headshot of Justin](images/justin.jpeg)
->Justin is a senior studying environmental science and political science
-- **Karina Reddy**, Treasurer
+
+### **Justin Cummings**, Secretary
+<img src="images/justin.jpeg" alt="headshot of Justin" width="200"/>
+>Justin is a senior studying environmental science and political science.
+
+### **Karina Reddy**, Treasurer
 ![Headshot of Karina]()
 >Karina is a senior studying neuroscience.
-- **Serena Finger**, Community Outreach Chair
-![Headshot of Serena](images/serena.jpeg)
->Serena is a senior studying environmental studies
-- **Jaz Abbey**, Social Media Chair
-![Headshot of Jaz](images/jaz.jpeg)
+
+### **Serena Finger**, Community Outreach Chair
+<img src="images/serena.jpeg" alt="headshot of Serena" width="200"/>
+>Serena is a senior studying environmental studies.
+
+### **Jaz Abbey**, Social Media Chair
+<img src="images/jaz.jpeg" alt="headshot of Jaz" width="200"/>
 >Jaz is a senior studying political science.
-- **Zane Snyder Cox**, Recruitment Coordinator
-![Headshot of Zane](images/zane.jpeg)
+
+### **Zane Snyder Cox**, Recruitment Coordinator
+<img src="images/zane.jpeg" alt="headshot of Zane" width="200"/>
 >Zane is a senior studying political science.
-- **Sonia Lerner**, Transition Liaison
-![Headshot of Sonia](images/sonia.jpeg)
+
+### **Sonia Lerner**, Transition Liaison
+<img src="images/sonia.jpeg" alt="headshot of Sonia" width="200"/>
 >Sonia is a sophomore studying public health and computer science.
-- **Elias Theofilopoulos**, Transition Liaison
-![Headshot of Elias](images/elias.jpg)
+
+### **Elias Theofilopoulos**, Transition Liaison
+<img src="images/elias.jpg" alt="headshot of Elias" width="200"/>
 >Elias is a sophomore studying environmental studies.
-- **Evie Straub**, Transition Liaison
-![Headshot of Evie](images/evie.jpeg)
+
+### **Evie Straub**, Transition Liaison
+<img src="images/evie.jpeg" alt="headshot of Evie" width="200"/>
 >Evie is a sophomore studying civil engineering
-- **Andrew Shayani**, Transition Liaison
-![Headshot of Andrew](images/andrew.jpeg)
+
+### **Andrew Shayani**, Transition Liaison
+<img src="images/andrew.jpeg" alt="headshot of Andrew" width="200"/>
 >Andrew is a junior studying environmental studies.
-- **Ben Jacobs**, Transition Liaison
-![Headshot of Ben](images/ben.jpeg)
+
+### **Ben Jacobs**, Transition Liaison
+<img src="images/ben.jpeg" alt="headshot of Ben" width="200"/>
 >Ben is a junior studying environmental studies and political science.
-- **Amelia Ogawa**, Transition Liaison
-![Headshot of Amelia](images/amelia.jpeg)
+
+### **Amelia Ogawa**, Transition Liaison
+<img src="images/amelia.jpeg" alt="headshot of Amelia" width="200"/>
 >Amelia is a sophomore studying environmental science.
 
 ## Community Partners
