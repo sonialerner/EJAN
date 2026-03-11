@@ -44,3 +44,56 @@ table {
     margin: auto;
     padding: 10px 0px;
 }
+
+/* our styles */
+
+@font-face {
+    font-family: altone;
+    src: url('/static/altone/Altone\ Trial-Regular.ttf')
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    font-family: altone;
+    margin: 0px 30px ; /* top, side */
+}
+
+h1 {
+    font-family: altone;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: altone;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: altone;
+    font-size: large;
+    font-weight: bold;
+}
+
+div {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+}
+
+a {
+    color: #379041;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #216b2a;
+}
+
+a:active {
+    color: #379041;
+}
