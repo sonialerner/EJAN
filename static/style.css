@@ -78,6 +78,13 @@ h3 {
     font-weight: bold;
 }
 
+hr {
+    height: 2px;
+    border-width:0;
+    color:#26AB6E;
+    background-color:#26AB6E;
+}
+
 .row {
     display: flex; 
     flex-direction: row; 
@@ -98,6 +105,32 @@ h3 {
     padding: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.tile {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #26AB6E;
+    height: 220px; 
+    width: 220px;
+    text-align: center;
+}
+
+.project {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    align-items: flex-start;
+    align-content: space-between;
+    gap: 25px;
+    padding: 15px;
+    background-color: #26AB6E;
+    height: 500px;
 }
 
 a {
