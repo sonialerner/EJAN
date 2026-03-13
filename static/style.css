@@ -57,6 +57,7 @@ body {
     color: #161213; 
     font-family: altone;
     margin: 0px 30px ; /* top, side */
+    line-height: 1.2;
 }
 
 h1 {
@@ -84,7 +85,8 @@ h3 {
     align-items: center;
     gap: 25px;
     padding: 15px;
-    margin: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .column {
@@ -94,7 +96,8 @@ h3 {
     align-items: center;
     gap: 25px;
     padding: 15px;
-    margin: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 a {
