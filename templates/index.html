@@ -5,31 +5,37 @@
         <link href="/static/style.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <div style="flex-direction: column; border-style: double; border-width: 1px; padding: 0px; margin: 10px; background-color: #6bce7b; width: 100%;">
-            <div style="align-items: flex-end;">
-                <div style="flex-direction: column;">
-                    <h2>The Environmental Justice Action Network</h2>
-                    <h2>Advancing Environmental Justice at George Washington University and in greater Washington, DC<h2>
-                </div>
-                <img src="static/images/EJAN-Logo.png" alt="EJAN Logo: Green, black, and white globe with fist and text, 'EJAN'" width="150"/>
-            </div>
-            <div style="background-color: #dcdddc; width: 97.8%;">
-                <a href="/about">About EJAN</a>
-                <a href="/projects">Our Projects</a>
-                <a href="/events">Events</a>
-                <a href="/contact">Contact US</a>
-                <a href="/gallery">Gallery</a>
-                <a href="/resources">Resources</a>
-            </div>
+        <!-- HEADER -->
+        <div class="row" style="justify-content: space-between; gap: 50px; padding-top: 0%; padding-bottom: 0%; margin-bottom: 0%; margin-top: 0%;">
+            <img src="static/images/EJAN-Logo.png" alt="EJAN Logo: Green, black, and white globe with fist and text, 'EJAN'" width="80px;"/>
+            <a href="/about">About EJAN</a>
+            <a href="/projects">Our Projects</a>
+            <a href="/events">Events</a>
+            <a href="/contact">Contact US</a>
+            <a href="/gallery">Gallery</a>
+            <a href="/resources">Resources</a>
         </div>
+
+        <!-- BODY: MAIN -->
+        <div class="row" style="justify-content: space-around; background-color: #26AB6E; margin-top: 0%;">
+            <div class="column" style="padding: 0%; margin-bottom: 0%; margin-top: 0%;">
+                <h1>The Environmental Justice Action Network</h1>
+                <h3 style="font-style: italic;">Advancing Environmental Justice at George Washington University and in greater Washington, DC<h3>
+            </div>
+            <img src="static/images/20250418-EKR-0039.jpeg" height="400px">
+        </div>
+        
         <h3>EJAN is a grassroots student organization dedicated to ensuring that all D.C. communities, regardless of race, income, or geographic location, have equal access to a healthy environment and meaningful participation in the environmental decision-making processes.</h3>
         <h3>What We Do</h3>
         <p>We work at the intersection of social justice and environmental protection, focusing on communities that have been disproportionately affected by environmental hazards. Through volunteering, policy and advocacy, and research, we strive to create lasting change.</p>
-        <div>
-            <img src="static/images/20250418-EKR-0039.jpeg" height="250px">
+        <!-- BODY: IMAGES -->
+        <div class="row">
+            
             <img src="static/images/IMG_1591.jpeg" height="250px">
             <img src="static/images/IMG_5464.jpeg" height="250px">
         </div>
+
+        <!-- BODY: LINKS -->
         <h3>Quick Links</h3>
         <a href="/projects">Latest Project Update</a>
         <p style="font-style: italic;">See our ongoing work in environmental justice.</p>
@@ -38,6 +44,7 @@
         <a href="/contact">Get Involved</a>
         <p style="font-style: italic;">We'd love to hear from you.</p>
 
+        <!-- FOOTER -->
         <h3>Follow Us</h3>
         <a href="https://www.instagram.com/gw_ejan/">Instagram</a>
         <a href="https://linkedin.com/company/environmental-justice-action-network">LinkedIn</a>
