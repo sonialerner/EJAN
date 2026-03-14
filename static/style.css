@@ -85,6 +85,34 @@ hr {
     background-color:#26AB6E;
 }
 
+input {
+    background-color: #DADBDB;
+    font-family: altone;
+    line-height: 1.7;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: #8A8B8B;
+    font-family: altone;
+}
+
+.contact {
+    color: #161213 ;
+    background-color: #DADBDB;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.7;
+    padding: 5px;
+}
+
+.contact:hover {
+    color: #26AB6E;
+}
+
 .row {
     display: flex; 
     flex-direction: row; 
@@ -105,6 +133,28 @@ hr {
     padding: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.header {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center;
+    gap: 50px; 
+    padding: 15px;
+    padding-top: 0%; 
+    padding-bottom: 0%; 
+    margin: 0%;
+    margin-top: -100px;
+    margin-left: -30px;
+    width: 98%;
+    background-color: #cdcdcd; 
+    position: fixed;
+    z-index: 0;
+}
+
+.content {
+    margin-top: 100px;
 }
 
 .tile {
